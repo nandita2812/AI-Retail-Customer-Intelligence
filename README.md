@@ -83,4 +83,3 @@ Nandita Kumari
 - Real-time data integration
 - Deployment on cloud (Streamlit Cloud)
 - Advanced recommendation system
-- 
